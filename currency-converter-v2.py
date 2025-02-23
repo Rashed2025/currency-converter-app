@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 # Your API key (Replace with your actual API key)
-API_KEY = "a89083ae26ae7d29c2469283"
+API_KEY = "YOUR_API_KEY"
 
 # Custom CSS for improved aesthetics
 st.markdown("""
